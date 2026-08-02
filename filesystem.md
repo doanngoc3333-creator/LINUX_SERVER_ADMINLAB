@@ -1,10 +1,10 @@
 Linux-Server-Administration-Lab
 
-├── README.md
-│
-├── 01-linux-basics
-│   └── filesystem.md
-│
-├── 02-ssh
-├── 03-scripts
-└── 04-troubleshooting
+README.md
+
+_01-linux-basics
++filesystem.md
+
+_02-ssh
+_03-scripts
+_04-troubleshooting
