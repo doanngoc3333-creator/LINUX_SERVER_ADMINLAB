@@ -8,7 +8,7 @@ browsable = yes
 writable = yes
 read only = no
 valid users = name of user #in this NAS
-#nano closing 
+#nano closing st
 sudo systemctl status smbd # checking samba
 sudo ufw allow samba
 sudo smbpasswd -a username
