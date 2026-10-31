@@ -1,0 +1,1 @@
+sudo dd if=/dev/sda of=/dev/sdb bs=64M status=progress conv=fsync
