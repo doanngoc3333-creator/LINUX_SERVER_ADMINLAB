@@ -10,6 +10,7 @@ Personal learning project .
 * Networking
 * Automation
 * System troubleshooting
+<<<<<<< HEAD
 ---
 ### Automation Setting up a server (basic tools)
 * updating and upgrading system, installing baisc package and tools
@@ -18,3 +19,7 @@ Personal learning project .
 ```
 ---
  ### Thank you for your attention
+=======
+
+ 
+>>>>>>> origin/main
