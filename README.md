@@ -21,5 +21,3 @@ Personal learning project .
  ### Thank you for your attention
 =======
 
- 
->>>>>>> origin/main
